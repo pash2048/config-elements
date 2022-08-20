@@ -1,0 +1,32 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "node script"
+  },
+  "name": "config-elements",
+  "version": "0.2.1",
+  "description": "YAML rewrite - Replacement for json",
+  "main": "index.js",
+  "dependencies": {
+    "util-pack": "^1.0.3"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siriusmart/config-elements.git"
+  },
+  "keywords": [
+    "backend",
+    "config",
+    "element",
+    "file",
+    "json",
+    "alternative"
+  ],
+  "author": "Siriusmart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Siriusmart/config-elements/issues"
+  },
+  "homepage": "https://github.com/Siriusmart/config-elements#readme"
+}
